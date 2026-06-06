@@ -1,19 +1,7 @@
-版权所有 (c) 2026 SxrDoor
-
-特此授权任何个人或组织免费使用、复制、修改、合并、发布本软件（原始版本）及其修改版本，但须遵守以下条件：
-
-1. 原始软件不得售卖：不得以任何形式将本软件的原始未修改副本直接用于销售或作为商品出售。但允许将原始软件用于任何商业服务（包括但不限于作为内部工具、提供在线服务、API后端、SaaS等），无需另行授权。
-
-2. 修改版本无限制：对本软件进行任何修改后产生的新版本（“修改版本”），不受上述第1条的限制。修改版本可以任意使用，包括但不限于销售、商业集成、收费服务等。修改者无需征得原作者同意。
-
-3. 免责声明：本软件按“原样”提供，不提供任何明示或暗示的担保，包括但不限于适销性、特定用途适用性及不侵权。在任何情况下，原作者均不对因使用本软件或无法使用本软件所造成的任何索赔、损害或其他责任负责。
-
 Copyright (c) 2026 SxrDoor
 
-Permission is hereby granted, free of charge, to any person or organization obtaining a copy of this software (original version) and its modified versions, to use, copy, modify, merge, and distribute the software, subject to the following conditions:
+Anyone may use, copy, modify, distribute, or sell this software for any purpose, with or without attribution. The only conditions are:
+- Do not use my name to falsely imply endorsement.
+- I provide no warranty and accept no liability.
 
-1. Original software may not be sold: The original unmodified copy of this software shall not be sold or distributed as a commodity. However, the original software may be used for any commercial services (including but not limited to internal tools, online services, API backends, SaaS, etc.) without additional authorization.
-
-2. No restrictions on modified versions: Any new version created by modifying this software ("Modified Version") is not subject to Section 1 above. Modified Versions may be used for any purpose, including but not limited to sale, commercial integration, fee-based services, etc., without the need for the original author's consent.
-
-3. Disclaimer of warranty: This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, 和 non-infringement. In no event shall the original author be liable for any claim, damages, or other liability arising from the use of or inability to use the software.
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY. THE AUTHOR IS NOT LIABLE FOR ANY CLAIM OR DAMAGE.
